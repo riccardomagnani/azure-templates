@@ -1371,7 +1371,7 @@
       "value": "[reference(variables('publicIP3Name')).ipAddress]"
     },
     
-    "fgaCustomData": {
+    "fgaCustomDataA": {
       "type": "string",
       "value": "[variables('fgaCustomData')]"
     }
