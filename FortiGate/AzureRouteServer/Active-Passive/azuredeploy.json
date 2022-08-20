@@ -1373,7 +1373,7 @@
     
     "fgaCustomData": {
       "type": "string",
-      "value": "[reference(variables('fgaCustomData'))]"
+      "value": "[variables('fgaCustomData')]"
     }
   }
 }
