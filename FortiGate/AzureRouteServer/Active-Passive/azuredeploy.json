@@ -1374,6 +1374,11 @@
     "fgaCustomDataA": {
       "type": "string",
       "value": "[variables('fgaCustomData')]"
+    },
+    
+    "fgbCustomDataB": {
+      "type": "string",
+      "value": "[variables('fgbCustomData')]"
     }
   }
 }
